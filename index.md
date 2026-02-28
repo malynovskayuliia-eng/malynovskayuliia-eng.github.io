@@ -18,7 +18,7 @@ The samples below are independently created examples representing different type
 
 - User guides and feature documentation  
 - API documentation (REST, GraphQL)  
-- Deployment and configuration guides  
+- Deployment and integration guides  
 - Release notes and versioning  
 - Documentation standards and style governance  
 
