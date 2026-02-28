@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/doc.css">
+</head>
+<body>
+
+  <header class="doc-header">
+    <div class="doc-container">
+      <div class="doc-brand">
+        <a href="/">{{ site.title }}</a>
+        <span class="doc-role">Technical writer</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="doc-container doc-content">
+    {{ content }}
+  </main>
+
+</body>
+</html>
