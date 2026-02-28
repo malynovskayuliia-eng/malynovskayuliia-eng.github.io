@@ -3,13 +3,14 @@ title: Overview
 layout: default
 nav_order: 1
 ---
-# Technical documentation
 
-Technical writer with experience documenting enterprise e-commerce platforms, digital identity systems, and custom enterprise applications.
+## About me
 
-Current work includes user guides, API documentation, deployment materials, and release documentation for large-scale digital platforms and services.
+Technical writer with enterprise experience in e-commerce systems and digital identity solutions.
 
-The documentation samples provided here are representative pieces created to demonstrate structure, clarity, and alignment with established technical writing style standards.
+My current work focuses on user guides, API documentation, integration guides, and release documentation for large-scale services.
+
+The samples below are independently created examples representing different types of structured, standards-aligned technical writing.
 
 ---
 
