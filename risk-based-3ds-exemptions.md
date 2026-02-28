@@ -14,8 +14,6 @@ This approach maintains compliance with Strong Customer Authentication (SCA) req
 
 ## Benefits
 
-Benefits include:
-
 - Reducing checkout abandonment caused by step-up authentication  
 - Maintaining compliance with SCA requirements 
 - Aligning authentication strength with transaction risk  
@@ -25,7 +23,7 @@ Benefits include:
 
 ## How it works
 
-The payment authorization flow is as follows:
+The payment authorization flow:
 
 1. A customer initiates a payment transaction.
 2. The payment system sends transaction details to a risk engine.
@@ -41,8 +39,6 @@ The payment authorization flow is as follows:
 ---
 
 ## Limitations
-
-Limitations include:
 
 - Issuers retain authority to require step-up authentication.  
 - Exemption eligibility depends on fraud rate thresholds.  
