@@ -1,6 +1,6 @@
 ---
 title: Risk-based 3D Secure exemptions in payment flows
-layout: default
+layout: doc
 nav_order: 3
 ---
 
