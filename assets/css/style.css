@@ -39,6 +39,10 @@ body {
   padding: 3rem 0 2.2rem;
 }
 
+.site-header .container {
+  padding: 0 1.5rem;
+}
+
 .site-title {
   font-size: 2.2rem;
   font-weight: 700;
