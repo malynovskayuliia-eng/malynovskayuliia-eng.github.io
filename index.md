@@ -4,8 +4,6 @@ layout: default
 nav_order: 1
 ---
 
-# Yuliia Malynovska - Technical documentation
-
 Technical writer with experience documenting enterprise e-commerce platforms, digital identity systems, and custom enterprise applications.
 
 Current work includes user guides, API documentation, deployment materials, and release documentation for large-scale digital platforms and services.
@@ -14,7 +12,7 @@ The documentation samples provided here are representative pieces created to dem
 
 ---
 
-## Areas of focus
+## Core documentation areas
 
 - User guides and feature documentation  
 - API documentation (REST, GraphQL)  
