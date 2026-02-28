@@ -3,7 +3,6 @@ title: Overview
 layout: default
 nav_order: 1
 ---
-
 ## About me
 
 Technical writer with enterprise experience in e-commerce systems and digital identity solutions.
