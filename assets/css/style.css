@@ -1,0 +1,113 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: #ffffff;
+  color: #111111;
+  line-height: 1.65;
+}
+
+/* Layout */
+.container {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+}
+
+/* Header */
+.site-header {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.site-title {
+  font-size: 1.9rem;
+  font-weight: 600;
+}
+
+.site-title a {
+  text-decoration: none;
+  color: #111;
+}
+
+.site-description {
+  margin-top: 0.4rem;
+  font-size: 0.95rem;
+  color: #666;
+}
+
+/* Content spacing */
+.content {
+  padding-top: 2rem;
+}
+
+/* Headings */
+.content h1 {
+  font-size: 1.7rem;
+  margin-bottom: 1.2rem;
+}
+
+.content h2 {
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #e5e5e5;
+  font-weight: 600;
+  color: #333;
+}
+
+.content h3 {
+  font-size: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+/* Paragraphs */
+.content p {
+  margin-bottom: 1rem;
+}
+
+/* Lists */
+.content ul,
+.content ol {
+  margin-left: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+
+.content li {
+  margin-bottom: 0.5rem;
+}
+
+/* Links */
+a {
+  color: #111;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #555;
+}
+
+/* Code */
+code {
+  background: #f5f5f5;
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.9rem;
+}
+
+pre {
+  background: #f5f5f5;
+  padding: 1rem;
+  border-radius: 4px;
+  overflow-x: auto;
+}
