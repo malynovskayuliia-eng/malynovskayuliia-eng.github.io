@@ -19,7 +19,7 @@ Ensure the following before you begin:
 
 ---
 
-## Procedure
+## Create a discount
 
 To create a discount:
 
