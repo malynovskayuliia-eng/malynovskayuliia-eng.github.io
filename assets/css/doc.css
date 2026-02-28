@@ -92,3 +92,17 @@
 .doc-content a:hover {
   color: #555;
 }
+
+.doc-back {
+  font-size: 0.85rem;
+  margin-bottom: 1.2rem;
+}
+
+.doc-back a {
+  text-decoration: none;
+  color: #666;
+}
+
+.doc-back a:hover {
+  color: #111;
+}
