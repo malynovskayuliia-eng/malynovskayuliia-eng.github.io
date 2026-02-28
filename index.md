@@ -25,7 +25,7 @@ The documentation samples provided here are representative pieces created to dem
 
 ## Documentation samples
 
-
+- [Create a percentage or fixed discount](create-a-discount)
 
 ---
 
