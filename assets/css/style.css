@@ -26,7 +26,7 @@ body {
 .container {
   max-width: 780px;
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 0;
 }
 
 /* ============================= */
@@ -37,10 +37,6 @@ body {
   background: #fafafa;
   border-bottom: 1px solid #e8e8e8;
   padding: 3rem 0 2.2rem;
-}
-
-.site-header .container {
-  padding: 0 1.5rem;
 }
 
 .site-title {
