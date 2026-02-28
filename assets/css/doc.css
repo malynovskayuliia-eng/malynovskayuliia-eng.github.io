@@ -1,0 +1,94 @@
+/* ============================= */
+/* Documentation Layout */
+/* ============================= */
+
+.doc-container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem;
+}
+
+/* Header (minimal, quiet) */
+
+.doc-header {
+  border-bottom: 1px solid #e5e5e5;
+  background: #ffffff;
+  padding: 1.2rem 0;
+}
+
+.doc-brand {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.doc-brand a {
+  text-decoration: none;
+  color: #111;
+  font-weight: 600;
+}
+
+.doc-role {
+  margin-left: 0.6rem;
+  color: #888;
+  font-weight: 400;
+}
+
+/* Documentation Content */
+
+.doc-content h1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.doc-content h2 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 2.2rem;
+  margin-bottom: 0.6rem;
+  color: #111;
+}
+
+.doc-content h3 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-top: 1.6rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Paragraphs */
+
+.doc-content p {
+  margin-bottom: 0.9rem;
+  color: #222;
+}
+
+/* Lists */
+
+.doc-content ul,
+.doc-content ol {
+  margin-left: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.doc-content li {
+  margin-bottom: 0.4rem;
+}
+
+/* Subtle notes styling */
+
+.doc-content h2 + ul {
+  margin-top: 0.4rem;
+}
+
+/* Links */
+
+.doc-content a {
+  color: #111;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.doc-content a:hover {
+  color: #555;
+}
