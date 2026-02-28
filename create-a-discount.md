@@ -1,6 +1,6 @@
 ---
 title: Create a percentage or fixed discount
-layout: default
+layout: doc
 nav_order: 2
 ---
 
