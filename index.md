@@ -26,7 +26,7 @@ The documentation samples provided here are representative pieces created to dem
 ## Documentation samples
 
 - [Create a percentage or fixed discount](create-a-discount)
-- [Risk-based 3D Secure exemptions in payment flows](3DS-exemptions)
+- [Risk-based 3D Secure exemptions in payment flows](risk-based-3ds-exemptions)
 
 ---
 
