@@ -3,6 +3,7 @@ title: Overview
 layout: default
 nav_order: 1
 ---
+# Technical documentation
 
 Technical writer with experience documenting enterprise e-commerce platforms, digital identity systems, and custom enterprise applications.
 
