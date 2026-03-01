@@ -27,15 +27,15 @@ The samples below are independently created examples representing different type
 
 <div class="sample-grid">
 
-<div class="sample-card">
-<h3><a href="/create-a-discount">Create a percentage or fixed discount</a></h3>
-<p>Instructional guide for configuring product discounts.</p>
-</div>
+  <a href="/create-a-discount" class="sample-card">
+    <h3>Create a percentage or fixed discount</h3>
+    <p>Instructional guide for configuring product discounts.</p>
+  </a>
 
-<div class="sample-card">
-<h3><a href="/risk-based-3ds-exemptions">Risk-based 3D Secure exemptions in payment flows</a></h3>
-<p>Feature overview of risk-based authentication exemptions.</p>
-</div>
+  <a href="/risk-based-3ds-exemptions" class="sample-card">
+    <h3>Risk-based 3D Secure exemptions in payment flows</h3>
+    <p>Feature overview of risk-based authentication exemptions.</p>
+  </a>
 
 </div>
 
