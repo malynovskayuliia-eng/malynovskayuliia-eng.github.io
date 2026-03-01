@@ -36,6 +36,11 @@ The samples below are independently created examples demonstrating structured, s
     <p>Feature overview of risk-based authentication exemptions.</p>
   </a>
 
+  <a href="/book-finder-api" class="sample-card">
+  <h3>Book Finder API Documentation</h3>
+  <p>REST API documentation sample with filtering, pagination, and response schema.</p>
+</a>
+
 </div>
 
 
