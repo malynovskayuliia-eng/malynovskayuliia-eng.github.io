@@ -12,7 +12,6 @@ Currently responsible for user-facing and developer-facing documentation, includ
 
 The samples below are independently created examples demonstrating structured, standards-aligned technical documentation across different documentation types.
 
----
 
 ## Core documentation areas
 
@@ -22,7 +21,6 @@ The samples below are independently created examples demonstrating structured, s
 - Release notes and versioning  
 - Documentation standards and style governance  
 
----
 
 ## Documentation samples
 
@@ -40,7 +38,6 @@ The samples below are independently created examples demonstrating structured, s
 
 </div>
 
----
 
 ## Tooling
 
