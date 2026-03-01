@@ -213,4 +213,16 @@ pre {
   margin: 0;
 }
 
+.section {
+  padding: 4rem 0;
+}
+
+.section-light {
+  background: #ffffff;
+}
+
+.section-alt {
+  background: #f7f7f7;
+}
+
 
