@@ -44,20 +44,17 @@ The samples below are independently created examples demonstrating structured, s
 
 ## Tooling
 
-**Authoring and documentation**  
-Markdown, Confluence, MS Word  
+**Authoring and documentation** 
+Markdown, Confluence, MS Word
 
-**Markup and web**  
-HTML, CSS  
+**Markup and web**
+HTML, CSS
 
-**CMS**  
-Adobe Experience Manager (AEM), WordPress, Umbraco  
+**Content platforms**
+Adobe Experience Manager (AEM), WordPress, Umbraco
 
-**Version control and workflow**  
-Git, SCRUM, Jira  
+**Version control and process**
+Git, SCRUM, Jira
 
-**Video and screen recording**  
-Camtasia, Snagit  
-
-**AI tools**  
-Gemini, GitHub Copilot, ChatGPT (used within documentation workflows)
+**Video and screen recording**
+Camtasia, Snagit
