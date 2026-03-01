@@ -47,16 +47,21 @@ The samples below are independently created examples demonstrating structured, s
 ## Skills
 
 **Authoring and documentation** 
+
 Markdown, Confluence, MS Word
 
 **Markup and web**
+
 HTML, CSS
 
 **Content management systems**
+
 Adobe Experience Manager (AEM), WordPress, Umbraco
 
 **Version control and workflow**
+
 Git, Scrum, Jira
 
 **Video and screen recording**
+
 Camtasia, Snagit
