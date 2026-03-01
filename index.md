@@ -25,8 +25,19 @@ The samples below are independently created examples representing different type
 
 ## Documentation samples
 
-- [Create a percentage or fixed discount](create-a-discount)
-- [Risk-based 3D Secure exemptions in payment flows](risk-based-3ds-exemptions)
+<div class="sample-grid">
+
+<div class="sample-card">
+<h3><a href="/create-a-discount">Create a percentage or fixed discount</a></h3>
+<p>Instructional guide for configuring product discounts.</p>
+</div>
+
+<div class="sample-card">
+<h3><a href="/risk-based-3ds-exemptions">Risk-based 3D Secure exemptions in payment flows</a></h3>
+<p>Feature overview of risk-based authentication exemptions.</p>
+</div>
+
+</div>
 
 ---
 
