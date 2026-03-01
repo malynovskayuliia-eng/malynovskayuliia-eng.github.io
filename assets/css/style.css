@@ -213,16 +213,19 @@ pre {
   margin: 0;
 }
 
-.section {
-  padding: 4rem 0;
+/* Remove old content padding if present */
+.content {
+  padding: 3rem 0;
 }
 
-.section-light {
-  background: #ffffff;
+/* Add spacing rhythm */
+.content h2 {
+  margin-top: 4rem;
 }
 
-.section-alt {
-  background: #f7f7f7;
+/* Create subtle section separation */
+.content h2:not(:first-of-type) {
+  padding-top: 3rem;
+  border-top: 1px solid #e6e6e6;
 }
-
 
