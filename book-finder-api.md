@@ -108,8 +108,6 @@ curl -X GET "https://api.bookfinder.com/v1/books?author=orwell&min_rating=4.0&li
 | `total_pages` | integer | Total number of available pages. |
 | `books` | array[Book] | List of book objects. |
 
----
-
 ### Book 
 
 | Field | Type | Description |
