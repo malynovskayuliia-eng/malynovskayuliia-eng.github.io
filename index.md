@@ -4,9 +4,6 @@ layout: default
 nav_order: 1
 ---
 
-<section class="section section-light">
-<div class="container">
-
 ## About me
 
 Technical writer with enterprise experience in e-commerce systems and digital identity solutions.
@@ -15,11 +12,7 @@ My current work focuses on user guides, API documentation, integration guides, a
 
 The samples below are independently created examples representing different types of structured, standards-aligned technical writing.
 
-</div>
-</section>
-
-<section class="section section-alt">
-<div class="container">
+---
 
 ## Core documentation areas
 
@@ -29,11 +22,7 @@ The samples below are independently created examples representing different type
 - Release notes and versioning  
 - Documentation standards and style governance  
 
-</div>
-</section>
-
-<section class="section section-light">
-<div class="container">
+---
 
 ## Documentation samples
 
@@ -51,11 +40,7 @@ The samples below are independently created examples representing different type
 
 </div>
 
-</div>
-</section>
-
-<section class="section section-alt">
-<div class="container">
+---
 
 ## Tooling
 
@@ -76,6 +61,3 @@ Camtasia, Snagit
 
 **AI tools**  
 Gemini, GitHub Copilot, ChatGPT (used within documentation workflows)
-
-</div>
-</section>
