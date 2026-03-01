@@ -106,3 +106,14 @@
 .doc-back a:hover {
   color: #111;
 }
+
+.doc-content table {
+  width: auto;
+  table-layout: auto;
+}
+
+.doc-content th,
+.doc-content td {
+  padding: 10px 14px;
+  vertical-align: top;
+}
