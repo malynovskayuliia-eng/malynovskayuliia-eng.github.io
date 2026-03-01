@@ -6,11 +6,11 @@ nav_order: 1
 
 ## About me
 
-Technical writer with enterprise experience in e-commerce systems and digital identity solutions.
+Technical writer with enterprise experience in e-commerce platforms and digital identity solutions.
 
-My current work focuses on user guides, API documentation, integration guides, and release documentation for large-scale services.
+Currently responsible for user-facing and developer-facing documentation, including user guides, API documentation, integration guides, and release materials for large-scale services.
 
-The samples below are independently created examples representing different types of structured, standards-aligned technical writing.
+The samples below are independently created examples demonstrating structured, standards-aligned technical documentation across different documentation types.
 
 ---
 
