@@ -163,7 +163,7 @@ pre {
 /* Section Separation */
 /* ============================= */
 
-/* Add gentle breathing rhythm */
+
 .content > * + * {
   margin-top: 0.8rem;
 }
@@ -179,44 +179,37 @@ pre {
   margin-top: 1.8rem;
 }
 
-/* Card */
+/* Card as link */
 
 .sample-card {
+  display: block;
   border: 1px solid #e6e6e6;
   padding: 1.8rem;
   background: #ffffff;
+  text-decoration: none;
+  color: inherit;
   transition: border-color 0.2s ease;
 }
-
-/* Subtle hover — no shadow */
 
 .sample-card:hover {
   border-color: #111;
 }
 
-/* Card title */
+/* Title */
 
 .sample-card h3 {
   font-size: 1.05rem;
   font-weight: 600;
   margin-bottom: 0.6rem;
-}
-
-/* Remove default link underline inside card title */
-
-.sample-card h3 a {
-  text-decoration: none;
   color: #111;
 }
 
-.sample-card h3 a:hover {
-  text-decoration: underline;
-}
-
-/* Description text */
+/* Description */
 
 .sample-card p {
   font-size: 0.95rem;
   color: #555;
   margin: 0;
 }
+
+
