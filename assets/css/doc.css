@@ -117,3 +117,7 @@
   padding: 10px 14px;
   vertical-align: top;
 }
+
+.doc-content th {
+  text-align: left;
+}
