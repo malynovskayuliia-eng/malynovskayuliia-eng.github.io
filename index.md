@@ -54,7 +54,7 @@ HTML, CSS
 Adobe Experience Manager (AEM), WordPress, Umbraco
 
 **Version control and process**
-Git, SCRUM, Jira
+Git, Scrum, Jira
 
 **Video and screen recording**
 Camtasia, Snagit
