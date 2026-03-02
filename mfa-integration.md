@@ -4,7 +4,7 @@ layout: doc
 nav_order: 5
 ---
 
-# Multi-Factor Authentication Integration
+# Multi-factor authentication integration
 
 This integration adds multi-factor authentication (MFA) to an existing OAuth 2.0 login flow. It introduces a second verification step during sign-in and requires backend validation of issued tokens before granting access to protected resources.
 
