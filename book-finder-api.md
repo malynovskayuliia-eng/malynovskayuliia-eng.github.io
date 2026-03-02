@@ -1,10 +1,10 @@
 ---
-title: Book Finder API Documentation
+title: Book Finder API documentation
 layout: doc
 nav_order: 4
 ---
 
-# Book Finder API Documentation
+# Book Finder API 
 
 The Book Finder API provides access to book metadata, including publication details, ratings, and availability information.
 
@@ -26,7 +26,7 @@ Authorization: Bearer YOUR_API_KEY
 
 ---
 
-## Search Books
+## Search books
 
 `GET /books`
 
@@ -34,7 +34,7 @@ Returns a paginated list of books.
 
 ---
 
-## Query Parameters
+## Query parameters
 
 | Name | Type | Required | Description |
 |------|------|----------|-------------|
@@ -53,7 +53,7 @@ Returns a paginated list of books.
 
 ---
 
-## Example Request
+## Example request
 
 ```bash
 curl -X GET "https://api.bookfinder.com/v1/books?author=orwell&min_rating=4.0&limit=10&sort_by=published_year&sort_order=desc" \
@@ -62,7 +62,7 @@ curl -X GET "https://api.bookfinder.com/v1/books?author=orwell&min_rating=4.0&li
 
 ---
 
-## Successful Response
+## Successful response
 
 `200 OK`
 
@@ -98,7 +98,7 @@ curl -X GET "https://api.bookfinder.com/v1/books?author=orwell&min_rating=4.0&li
 
 ---
 
-## Response Schema
+## Response schema
 
 | Field | Type | Description |
 |--------|------|------------|
@@ -129,7 +129,7 @@ curl -X GET "https://api.bookfinder.com/v1/books?author=orwell&min_rating=4.0&li
 
 ---
 
-## Error Responses
+## Error responses
 
 All error responses return the following structure:
 
@@ -141,7 +141,7 @@ All error responses return the following structure:
 }
 ```
 
-### Error Fields
+### Error fields
 
 | Field | Type | Description |
 |--------|------|------------|
