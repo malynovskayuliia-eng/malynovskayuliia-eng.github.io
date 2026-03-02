@@ -37,12 +37,12 @@ The samples below are independently created examples demonstrating structured, s
   </a>
 
   <a href="/book-finder-api" class="sample-card">
-    <h3>Book Finder API Documentation</h3>
+    <h3>Book Finder API</h3>
     <p>REST API documentation sample with filtering, pagination, and response schema.</p>
   </a>
 
   <a href="/mfa-integration" class="sample-card">
-    <h3>Multi-Factor Authentication Integration</h3>
+    <h3>Multi-factor authentication integration</h3>
     <p>Integration guide describing MFA implementation within an OAuth 2.0 login flow.</p>
   </a>
 
