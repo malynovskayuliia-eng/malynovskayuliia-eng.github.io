@@ -27,7 +27,7 @@ The samples below are independently created examples demonstrating structured, s
 <div class="sample-grid">
 
   <a href="/create-a-discount" class="sample-card">
-    <h3>Create a percentage or fixed discount</h3>
+    <h3>Create a percentage or fixed amount discount</h3>
     <p>Instructional guide for configuring product discounts.</p>
   </a>
 
