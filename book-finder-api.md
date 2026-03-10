@@ -43,7 +43,7 @@ Returns a paginated list of books.
 | `isbn` | string | no | ISBN-10 or ISBN-13 identifier. |
 | `published_after` | integer | no | Earliest publication year included in the results. |
 | `published_before` | integer | no | Latest publication year included in the results. |
-| `min_rating` | number | no | Minimum average rating between 0 and 5 (inclusive). |
+| `min_rating` | number | no | Minimum average rating (0-5). |
 | `genre` | string | no | Book genre. |
 | `language` | string | no | ISO 639-1 language code. |
 | `page` | integer | no | Page number of the results. Default: 1. Minimum: 1. |
