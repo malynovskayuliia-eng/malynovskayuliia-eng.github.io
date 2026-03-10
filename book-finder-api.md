@@ -43,7 +43,7 @@ Returns a paginated list of books.
 | `isbn` | string | no | ISBN-10 or ISBN-13 identifier. |
 | `published_after` | integer | no | Earliest publication year included in the results. |
 | `published_before` | integer | no | Latest publication year included in the results. |
-| `min_rating` | number | no | Minimum average rating (0-5). |
+| `min_rating` | number | no | Minimum average rating between 0 and 5 (inclusive). |
 | `genre` | string | no | Book genre. |
 | `language` | string | no | ISO 639-1 language code. |
 | `page` | integer | no | Page number of the results. Default: 1. Minimum: 1. |
@@ -102,7 +102,7 @@ curl -X GET "https://api.bookfinder.com/v1/books?author=orwell&min_rating=4.0&li
 
 | Field | Type | Description |
 |--------|------|------------|
-| `page` | integer | Current page of results. |
+| `page` | integer | Current page number of the results. |
 | `limit` | integer | Number of results returned per page. |
 | `total_count` | integer | Total number of matching records. |
 | `total_pages` | integer | Total number of available pages. |
@@ -116,18 +116,18 @@ curl -X GET "https://api.bookfinder.com/v1/books?author=orwell&min_rating=4.0&li
 | `title` | string | Book title. |
 | `subtitle` | string or null | Book subtitle. |
 | `author` | object | Author information. |
-| `author.id`| string | Unique author identifier. |
-| `author.name`| string | Author name. |
+| `author.id` | string | Unique author identifier. |
+| `author.name` | string | Author name. |
 | `published_year` | integer | Year of publication. |
 | `isbn_13` | string | ISBN-13 identifier. |
-| `genre` | array[string] | List of genres. |
+| `genre` | array[string] | List of genres associated with the book. |
 | `language` | string | ISO 639-1 language code. |
 | `page_count` | integer | Total number of pages. |
 | `average_rating` | number | Average user rating (0-5). |
 | `ratings_count` | integer | Total number of ratings. |
 | `available_formats` | array[string] | Available formats. |
-| `created_at` | string (RFC 3339) | Date and time when the record was created. |
-| `updated_at` | string (RFC 3339) | Date and time when the record was last updated. |
+| `created_at` | string | Date and time when the record was created, formatted as RFC 3339. |
+| `updated_at` | string | Date and time when the record was last updated, formatted as RFC 3339. |
 
 ---
 
