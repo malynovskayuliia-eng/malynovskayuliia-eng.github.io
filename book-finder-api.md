@@ -116,6 +116,8 @@ curl -X GET "https://api.bookfinder.com/v1/books?author=orwell&min_rating=4.0&li
 | `title` | string | Book title. |
 | `subtitle` | string or null | Book subtitle. |
 | `author` | object | Author information. |
+| `author.id`| string | Unique author identifier. |
+| `author.name`| string | Author name. |
 | `published_year` | integer | Year of publication. |
 | `isbn_13` | string | ISBN-13 identifier. |
 | `genre` | array[string] | List of genres. |
