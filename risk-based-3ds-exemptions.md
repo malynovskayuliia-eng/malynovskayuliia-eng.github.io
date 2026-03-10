@@ -43,7 +43,7 @@ The payment authorization flow:
 - Issuers retain authority to require step-up authentication.  
 - Exemption eligibility depends on fraud rate thresholds.  
 - Regulatory requirements vary by region and change over time.  
-- Inaccurate risk assessment may increase fraud exposure. 
+- Inaccurate risk assessment may increase exposure to fraud. 
 
 ---
 
@@ -54,4 +54,4 @@ To support security and compliance:
 - Maintain audit logs for exemption decisions.  
 - Monitor fraud rates to remain within regulatory thresholds.  
 - Review exemption policies regularly.  
-- Use risk models that are explainable during compliance reviews.  
+- Use explainable risk models during compliance reviews.  
