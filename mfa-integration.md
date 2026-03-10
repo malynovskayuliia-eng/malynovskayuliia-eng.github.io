@@ -20,7 +20,7 @@ The identity provider manages second-factor verification and policy enforcement.
 
 ## How the login flow changes
 
-The MFA step extends the existing OAuth Authorization Code flow and adds an additional verification step before the identity provider issues an authorization code.
+The MFA step extends the existing OAuth Authorization Code flow and adds a verification step before the identity provider issues an authorization code.
 
 The login flow includes the following steps:
 
