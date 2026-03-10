@@ -133,7 +133,7 @@ curl -X GET "https://api.bookfinder.com/v1/books?author=orwell&min_rating=4.0&li
 
 ## Error responses
 
-All error responses return the following structure:
+Error responses follow this structure:
 
 ```json
 {
