@@ -43,7 +43,7 @@ Before enabling MFA:
 - Configure redirect URIs exactly as defined in the identity provider settings.  
 - Generate a Client ID and Client Secret.  
 
-Define the following values in the application configuration:
+Define the following values in your application configuration:
 
 - Client ID  
 - Client Secret  
