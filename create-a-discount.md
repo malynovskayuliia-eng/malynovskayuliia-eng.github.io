@@ -1,10 +1,10 @@
 ---
-title: Create a percentage or fixed amount discount
+title: Create a percentage or fixed-amount discount
 layout: doc
 nav_order: 2
 ---
 
-# Create a percentage or fixed amount discount
+# Create a percentage or fixed-amount discount
 
 A percentage or fixed discount reduces the price of eligible products by a defined percentage or monetary amount.
 
