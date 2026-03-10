@@ -38,8 +38,8 @@ Returns a paginated list of books.
 
 | Name | Type | Required | Description |
 |------|------|----------|-------------|
-| `author` | string | no | Author name filter (partial match supported). |
-| `title` | string | no | Book title filter (partial match supported). |
+| `author` | string | no | Author name (partial match supported). |
+| `title` | string | no | Book title (partial match supported). |
 | `isbn` | string | no | ISBN-10 or ISBN-13 identifier. |
 | `published_after` | integer | no | Earliest publication year included in the results. |
 | `published_before` | integer | no | Latest publication year included in the results. |
