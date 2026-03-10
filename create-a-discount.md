@@ -30,7 +30,7 @@ To create a discount:
 5. Set a minimum purchase amount or item quantity required for the discount to apply.
 6. Under **Customer eligibility**, select **All customers** or **Selected customers or customer segments**.
 7. Under **Combinations**, select which other discounts this discount can be combined with, if the option is enabled for your store.
-8. Set the start date and optional end date.
+8. Set the start date and, optionally, the end date.
 9. Select **Save**.
 
 ---
