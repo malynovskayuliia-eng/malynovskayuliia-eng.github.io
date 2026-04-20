@@ -70,3 +70,7 @@ Git, Scrum, Jira
 **Video and screen recording**
 
 Camtasia, Snagit
+
+**AI-assisted documentation**
+
+ChatGPT, GitHub Copilot, Claude
